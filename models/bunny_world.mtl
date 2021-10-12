@@ -1,0 +1,11 @@
+# Blender3D MTL File: bunny_world.blend
+# Material Count: 1
+newmtl initialShadingGroup_wood_texture.jpg
+Ns 96.078431                    roughness i think, (0-1000)
+Ka 0.000000 0.000000 0.000000   COLOUR AT ITS DARKEST
+Kd 0.400000 0.300000 0.250000   COLOUR NORMALLY
+Ks 0.500000 0.400000 0.350000   COLOUR AT ITS BRIGHTEST
+Ni 1.000000 dunno
+d 1.000000 dunno
+illum 2
+map_Kd wood_texture.bmp
